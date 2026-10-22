@@ -1,0 +1,17 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+DerivedData/
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# Debug-run profiling artifact
+default.profraw
+
+# CocoaPods / SPM (not currently used, kept for safety)
+Pods/
+*.xcworkspace/xcuserdata/

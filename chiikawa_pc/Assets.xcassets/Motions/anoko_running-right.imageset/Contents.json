@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "filename": "anoko_running-right.png",
+      "idiom": "universal",
+      "scale": "1x"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}
