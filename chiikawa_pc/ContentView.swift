@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  chiikawa_pc
-//
-//  Character picker: choose which pets stand on the desktop.
-//
-
 import SwiftUI
 
 struct ContentView: View {

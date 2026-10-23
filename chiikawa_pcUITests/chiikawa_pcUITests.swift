@@ -1,10 +1,3 @@
-//
-//  chiikawa_pcUITests.swift
-//  chiikawa_pcUITests
-//
-//  Created by 정가연 on 10/22/26.
-//
-
 import XCTest
 
 final class chiikawa_pcUITests: XCTestCase {
